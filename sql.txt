@@ -1,0 +1,12 @@
+basical part:
+#显示数据库
+show databases;
+
+#新建数据库
+create database data default character set utf8 collate utf8_general_ci;
+
+#删除数据库
+drop database data;
+
+--------------------数据分析一般是查询，因此基本部分跳过-------------------
+
